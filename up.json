@@ -2,7 +2,7 @@
   "appName": "X Recorder pro",
   "appIcon": "https://play-lh.googleusercontent.com/2S0F856si0L7ntV21P_K8uh0HfmMVzus7IdZl_Ickude4kqb733nM5R0DyJyDPtN21i_1ajzhMk6P22X2E_u=s512",
   "versionName": "4.0.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "description": "Official Release v4.0 is out!\nNew UI elements and premium themes.\nEnhanced performance and stability.\nNew premium features added.\nImproved user experience.\nBug fixes and security improvements.",
   "buttonText": "DOWNLOAD",
   "buttonUrl": "https://t.me/VS_Moder",
